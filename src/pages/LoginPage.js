@@ -3,9 +3,9 @@ import LoginForm from "../components/LoginForm";
 export default function LoginPage() {
   return (
     <div>
-        <h1>
+        <h2>
             Login
-        </h1>
+        </h2>
 <LoginForm />
     </div>
   )
